@@ -27,6 +27,7 @@ const ICON_MAPPING = {
   youtube: FaYoutube
 };
 
+
 export const Socialicons = (params) => {
   return (
     <div className="stick_follow_icon">

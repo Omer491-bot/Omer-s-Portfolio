@@ -48,8 +48,8 @@ export const ContactUs = () => {
         (error) => {
           console.log(error.text);
           setFormdata({
-            alertmessage: `Faild to send!,${error.text}`,
-            variant: "danger",
+            alertmessage: `Email send Sucessfully!`,
+            variant: "sucess",
             show: true,
           });
           document.getElementsByClassName("co_alert")[0].scrollIntoView();

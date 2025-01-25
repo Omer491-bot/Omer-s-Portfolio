@@ -1,47 +1,43 @@
-const logotext = "JOHN";
+const logotext = "Omer";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Muhammad omer",
+    description: "I’m Muhmmad Omer Software Engineer _ Full stack devloper,currently working on Suite Script",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Muhammad Omer",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I am a computer science student with a passion for frontend development, I'm dedicated to crafting engaging digital experiences that captivate users. With a focus on user-centric design and intuitive interfaces.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I am a computer science student with a passion for frontend development, I'm dedicated to crafting engaging digital experiences that captivate users. With a focus on user-centric design and intuitive interfaces.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Best Designer Award",
+        where: "IST Islamabad",
+        date: "2000",
     },
     {
         jobtitle: "Designer of week",
-        where: "Jamalya",
+        where: "Islamabad",
         date: "2019",
     },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+   
 ];
 
 const skills = [{
-        name: "Python",
+        name: "C++",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "React",
         value: 85,
     },
     {
@@ -49,26 +45,26 @@ const skills = [{
         value: 80,
     },
     {
-        name: "React",
+        name: ".NEt",
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "SuiteScript",
         value: 85,
     },
 ];
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "An interactive AI animation Website full responsive with 3D animation",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Car Rental MAnagment System",
+        description: "A car rental managment system using WinForm .net clr where admin can login and book dcar for customer  ",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Cart Managment System",
+        description: "A cart managment system for an online e commerce store ",
     },
 ];
 
@@ -136,9 +132,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "omersh491@gmail.com",
+    YOUR_FONE: "+923197532274",
+    description: "Need to get in touch with us? Either fill out this from with your inqurey or E-mail me directly      ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,9 +143,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/Omer491-bot",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/muhmmad-omer-5634b6240/",
     twitter: "https://twitter.com",
 };
 export {

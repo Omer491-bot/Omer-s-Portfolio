@@ -34,7 +34,7 @@ export default function App() {
       </div>
       <ScrollToTop>
         <Headermain />
-        <AppRoutes />
+       <AppRoutes />
       </ScrollToTop>
     </Router>
   );
